@@ -24,10 +24,10 @@ The Decoder is a Recurrent Neural Network(RNN) which does language modelling up 
 
 # Dependencies
 
-* Keras 2.0.7
-* Theano 0.9.0
+* Keras
+* Theano 
 * Numpy
-* Pandas 0.20.3
+* Pandas
 * Matplotlib
 * Pickle
 
